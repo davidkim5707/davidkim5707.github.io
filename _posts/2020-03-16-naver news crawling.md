@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Crawling_ Naver News."
-description: Crawling.
-date:   2020-03-16
+title: Naver News Crawling.
+categories:
+  - Programming
+tags:
+  - programming
+last_modified_at: 2020-03-15
 use_math: true
 ---
 ### Naver News Crawling.

@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "nlp_Word Embedding using crawled movie reviews."
-description: natural language processing.
-date:   2020-03-15
+title: Word Embedding using crawled movie reviews.
+categories:
+  - Programming
+tags:
+  - programming
+last_modified_at: 2020-03-15
 use_math: true
 ---
 ### Word Embedding using crawled movie reviews.

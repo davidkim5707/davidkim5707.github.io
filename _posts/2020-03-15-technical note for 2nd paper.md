@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Technical Note_2nd paper"
-description: Prediction of industrial accident workers' return to the original work, using Machine Learning.
-date:   2020-03-10
+title: Technical Note for 2nd paper.
+categories:
+  - Technical Notes
+tags:
+  - Technical Notes
+last_modified_at: 2020-03-15
 use_math: true
-categories: [Technical_notes]
 ---
+
 ### Technical note
 Prediction of industrial accident workers' return to the original work, using Machine Learning.
 
