@@ -10,5 +10,5 @@ sidebar_link: true
 
 Name: Dawis Kim  
 University: Yonsei University  
-Major: Economics
+Major: Economics  
 Course: M.A.
