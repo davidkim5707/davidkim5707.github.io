@@ -1,13 +1,13 @@
 ---
 layout: post
-title: assignment 1[Adavanced Macro_prof. Jang]
+title: assignment 1_Adavanced Macro_prof. Jang
 categories:
   - Study_econ
 tags:
   - economic
   - H-P filter
   - Cooley and Prescott
-last_modified_at: 2020-02-23
+last_modified_at: 2020-03-19
 use_math: true
 ---
 
