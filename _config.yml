@@ -9,7 +9,7 @@ incremental: false
 title:            Dawis Kim
 tagline:          'Econ'
 description:      'Economist'
-url:              https://davidkim5707.github.io
+url:              'https://davidkim5707.github.io'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -19,7 +19,7 @@ baseurl:          ''
 
 author:
   name:           'Dawis Kim'
-  url:            https://twitter.com/fongandrewc
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
