@@ -5,7 +5,7 @@ categories:
   - Study_econ
 tags:
   - economic
-  - Invisible labor
+  - Indivisible labor
   - employment lottery
   - Aiyagari, Christiano and Eichenbaum(1992)
 last_modified_at: 2020-03-19
