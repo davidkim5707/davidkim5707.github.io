@@ -13,8 +13,18 @@ last_modified_at: 2020-03-22
 use_math: true
 ---
 
-rudin.1.1 {#rudin.1.1 .unnumbered}
----------
+---
+author:
+- Kim Dawis(2019311156)
+date: '2020-03-28'
+title: '**Real Analysis assignment 1**'
+---
+
+Assingment 1 {#assingment-1 .unnumbered}
+============
+
+rudin.11.15 {#rudin.11.15 .unnumbered}
+-----------
 
 (i). prove that $\phi$ is additive.
 
@@ -41,3 +51,46 @@ is always that $\phi(A) = a+1$ and $\phi(B) < 1$.
 
 (ii). prove that $\phi$ is not countable additive set function on a
 $\sigma-$ring.
+
+Let's consider the following case.
+
+$$(0,\frac{1}{k}] = \bigcup_{n=1}^{\infty} ({\frac{1}{k^{n+1}}, \frac{1}{k^{n}}}],\ \text{where}\ k>1$$
+
+Then,
+
+$$\phi((0,\frac{1}{k}]) = 1+\frac{1}{k},\ \text{which is not equal to}\ \phi(\bigcup_{n=1}^{\infty} ({\frac{1}{k^{n+1}}, \frac{1}{k^{n}}}]),\ \text{since}\ \phi(\bigcup_{n=1}^{\infty} ({\frac{1}{k^{n+1}}, \frac{1}{k^{n}}}]) = \frac{1}{k}.$$
+
+rudin.11.16 {#rudin.11.16 .unnumbered}
+-----------
+
+If $\int_{A}fdu = 0$ for every measurable subset A of a measurable set
+E, then $f(x)=0,\ \text{almost everywhere on E.}$
+
+If $f\geq 0$ and $\int_{A}fdu = 0$, then $f(x)=0$ almost everywhere on
+A.
+
+By the dominated convergence theorem,
+$$\int_{A}[(f(x))^2-\frac{1}{2}]dx = 0,\ \text{for all A}.$$ Thus, by
+theorem 1,
+$$f(x)=\pm\frac{1}{\sqrt{2}}\ \text{almost everywhere on E.}$$ Let A be
+the set of points of E where $$f(x)=\frac{1}{2}.$$ Then, by theorem 2,
+$f(x)=0$ almost everywhere on A. Since the function $f(x)\neq 0$, it
+follows that A has measure 0. Similarly, the set where
+$f(x)=-\frac{1}{2}$ has also measure 0.
+
+So, we showed that $$m(A)=0.$$
+
+rudin.11.17 {#rudin.11.17 .unnumbered}
+-----------
+
+Assume that n satisfies $$sin\ nx \geq \delta, x \in, \delta >0.$$ It
+follows that
+$$\int_{E}sin\ nxdx \geq \int_{E}\delta dx = \delta\int_{E}dx,$$ which
+leads to $$\int_{E}sin\ nxdx \geq \delta \mu(E).$$ Then, by the Bassel
+inequality, the inequality, $$\int_{E}sin\ nxdx \geq \delta \mu(E).$$
+stands only for finite number of integers $n$ because the Fourier
+coefficient of the function $\mathcal{X}_{E}$ contains the integral
+$\int_{E}sin\ nxdx.$
+
+Thus, it is proved that there are at most finitely many integers $n$
+such that $$sin nx \geq \delta,\ \text{for all} x \in E.$$
