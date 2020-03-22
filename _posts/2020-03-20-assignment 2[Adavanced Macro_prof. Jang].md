@@ -2,7 +2,7 @@
 layout: post
 title: assignment 2[Adavanced Macro_prof. Jang]
 categories:
-  - Study_econ
+  - Study_econ&math
 tags:
   - economic
   - stochastic growth model

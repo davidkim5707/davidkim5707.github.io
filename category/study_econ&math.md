@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Study_econ
+title: Study_econ&math
 ---

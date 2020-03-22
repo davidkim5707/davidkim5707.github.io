@@ -2,7 +2,7 @@
 layout: post
 title: assignment 1[Real Analysis_prof. Kang]
 categories:
-  - Study_econ
+  - Study_econ&math
 tags:
   - Mathmatics
   - real analysis
