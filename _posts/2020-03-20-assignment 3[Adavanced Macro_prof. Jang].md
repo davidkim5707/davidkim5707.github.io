@@ -18,14 +18,6 @@ use_math: true
 
 * [link for assignment 3](https://drive.google.com/uc?export=view&id=16xDXIuBlv-wNL__aOrldyNYTnZkRQOaV)  
 
----
-author:
-- 'Kim Dawis(2019-92073)'
-title: '**Advanced Macroeconomics**'
----
-
-Homework 3
-==========
 
 Estimate the persistence and magnitude of productivity shock
 ------------------------------------------------------------
