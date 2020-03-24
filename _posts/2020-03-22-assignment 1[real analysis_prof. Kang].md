@@ -12,20 +12,13 @@ tags:
 last_modified_at: 2020-03-22
 use_math: true
 ---
+### assignment 1
+* [link for assignment 1](https://drive.google.com/uc?export=view&id=1vKRFKhy4KXQDDGWqZFR0CueiP5cg2cAD)
 
-* [link for pop quiz 1](https://drive.google.com/uc?export=view&id=1vKRFKhy4KXQDDGWqZFR0CueiP5cg2cAD)
----
-author:
-- Kim Dawis(2019311156)
-date: '2020-03-28'
-title: '**Real Analysis assignment 1**'
----
 
 Assingment 1 {#assingment-1 .unnumbered}
-============
 
 rudin.11.15 {#rudin.11.15 .unnumbered}
------------
 
 (i). prove that $\phi$ is additive.
 
