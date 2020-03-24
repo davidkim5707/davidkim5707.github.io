@@ -11,21 +11,15 @@ last_modified_at: 2020-03-24
 use_math: true
 ---
 
----
-author:
-- Kim Dawis(2019311156)
-date: '2020-03-24'
-title: |
-  **Macroeconomics special issues**\
-   pop quiz1
----
+### pop quiz 1
+
+* [link for pop quiz 1](https://drive.google.com/uc?export=view&id=1vKRFKhy4KXQDDGWqZFR0CueiP5cg2cAD)  
+
 
 Describe steady state value of consumption, labor, and capital as function of parameters {#describe-steady-state-value-of-consumption-labor-and-capital-as-function-of-parameters .unnumbered}
-========================================================================================
 
-Assumption: $A_{t} = 1\ \text{at}\ s.s$  {#assumption-a_t-1-textat-s.s .unnumbered}
----------------------------------------
 
+Assumption: $A_{t} = 1\ \text{at}\ s.s$ 
 At the steady state, Eq1, Eq2, and R.C. can be transformed as follows.
 $$\begin{aligned}
 B\cdot N^{\Psi}\cdot C = \alpha\cdot K^{1-\alpha}\cdot N^{\alpha}\\
