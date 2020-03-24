@@ -13,6 +13,7 @@ last_modified_at: 2020-03-22
 use_math: true
 ---
 
+* [link for pop quiz 1](https://drive.google.com/uc?export=view&id=1vKRFKhy4KXQDDGWqZFR0CueiP5cg2cAD)
 ---
 author:
 - Kim Dawis(2019311156)
