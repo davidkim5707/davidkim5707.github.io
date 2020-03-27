@@ -13,12 +13,13 @@ last_modified_at: 2020-03-22
 use_math: true
 ---
 ### assignment 1
-* [link for assignment 1](https://drive.google.com/uc?export=view&id=1vKRFKhy4KXQDDGWqZFR0CueiP5cg2cAD)
+* [link for assignment 1](https://drive.google.com/uc?export=view&id=1oDyZRwxD_wA9PrL7YVSp8EOIPFSb4lXp)
 
 
 Assingment 1 {#assingment-1 .unnumbered}
 
 rudin.11.15 {#rudin.11.15 .unnumbered}
+-----------
 
 (i). prove that $\phi$ is additive.
 
@@ -409,3 +410,90 @@ Conclusively, we can get
 $\mu^{*}\bigl(E\cap\bigl(\bigcup_{j=1}^{\infty}A_{j}\bigr)\bigr)=\sum_{j=1}^{\infty}\mu^{*}(E \cap A_{j}).$
 
 folland.1.18 {#folland.1.18 .unnumbered}
+------------
+
+(a).
+
+Let $E \subset X$. Then,
+$$\mu^{*}(E) = \inf\{\sum_{j=1}^{\infty}\mu_{0}(A_{j}):A_{j} \in \mathbb{A}, E \subset \bigcup_{j}^{\infty}A_{j}\}$$
+
+So, for any $\epsilon > 0$, There exists
+$E\subset \sum_{j=1}^{\infty}A_{j}$ for sets $A_{j} \in \mathbb{A},$ and
+$$\sum_{j=1}^{\infty}\mu_{0}(A_{j}) \leq \mu^{*}(E) + \epsilon$$
+
+Then letting $A = \sum_{j=1}^{\infty}A_{j} \in \mathbb{A}_{\rho}$, we
+have
+$$\mu^{*}(A) \leq \sum_{j=1}^{\infty}\mu^{*}(A_{j}) \leq \sum_{j=1}^{\infty}\mu_{0}(A_{j}) \leq \mu^{*}(E) + \epsilon$$
+
+(b).
+
+Suppose $\mu^{*}(E) < \infty$, and if $E$ is $\mu^{*}-$measurable, we
+have, for each $n$, $E \subset A_{n},\ A_{n} \in \mathbb{A}_{\rho}$
+
+with $$\mu^{*}(E) \leq \mu^{*}(A_{n}) \leq \mu^{*}(E) + \frac{1}{n}$$
+
+Letting $B=\bigcap_{n=1}^{\infty}A_{n}$, we have
+$B\in \mathbb{A}_{\rho\delta},\ E \subset B$ and
+$$\mu^{*}(E) \leq \mu^{*}(B) \leq \mu^{*}(E)$$
+
+Thus, using the measurability of E, we have
+$$\mu^{*}(B) = \mu^{*}(E) = \mu^{*}(B\cap E) +\mu^{*}(B \cap E^{c}) = \mu^{*}(E) + \mu^{*}(B\backslash E)$$
+
+Hence, we conclude that $\mu^{*}(B\backslash E)=0.$
+
+To show the converse, assume we have an set
+$B \in \mathbb{A}_{\rho\delta}$ with $E \subset B$, and
+$\mu^{*}(B\backslash E)=0.$
+
+If $F \subset X$, then $$\begin{aligned}
+\mu^{*}(F\cap E) +\mu^{*}(F \cap E^{c}) &\leq \mu^{*}(F\cap B) +\mu^{*}(F \cap B^{c})+\mu^{*}(B\backslash E)=0
+\\& \leq \mu^{*}(F\cap B) +\mu^{*}(F \cap B^{c}) = \mu^{*}(F)\end{aligned}$$
+
+since $B$ is $\mu^{*}-$measurable. Clearly
+$\mu^{*}(F) \leq \mu^{*}(F\cap E) +\mu^{*}(F \cap E^{c})$, so $E$ is
+$\mu^{*}-$measurable.
+
+(c).
+
+Suppose $\mu_{0}$ is $\sigma-$finite. Then there exist
+$B_{j} \in \mathbb{A}$ with $\mu_{0}(B_{j})<\infty$ and
+$\bigcup_{j=1}^{\infty}B_{j}=X.$
+
+By part (a), we have that for each $E\cap B_{j}$, there exist an set
+$A_{jn} \in \mathbb{A}_{\rho}$ with $E\cap B_{j} \subset A_{jn}$
+
+and $$\mu^{*}(A_{jn})\leq \mu^{*}(E\cap B_{j}) +\frac{2^{-j}}{n}$$
+
+Let $A_{n} = \bigcup_{j=1}^{\infty}A_{jn}$. Then
+$A_{n} \in \mathbb{A}_{\rho},\ E\subset A_{n}$ and
+$$\mu^{*}(A_{j})\leq \mu^{*}(E) +\frac{1}{n}$$
+
+Then letting $B=\bigcup_{n=1}^{\infty}A_{n}$, we have that
+$B \in \mathbb{A}_{\rho\delta},\ E\subset B$ and
+$\mu^{*}(E)\leq \mu^{*}(B).$
+
+folland.1.19 {#folland.1.19 .unnumbered}
+------------
+
+Suppose $E$ is $\mu^{*}-$measurable, then
+$$\mu^{*}(X) = \mu^{*}(X\cap E) + \mu^{*}(X\cap E^{*})$$
+
+But $\mu^{*}(X) = \mu_{0}(X)$ and $\mu^{*}(X\cap E) = \mu^{*}(E)$.
+Hence, we have $$\mu^{*}(E) = \mu_{0}(X)-\mu^{*}(E^{*}) = \mu_{*}(E)$$
+
+Conversly, suppose $\mu^{*}(E) = \mu_{*}(E).$ By problem 18.a, there
+exists $A_{n} \in\mathbb{A}_{\rho}$ with $E^{c} \subset A$
+
+and $\mu^{*}(A) \leq \mu^{*}(E^{c}) + \epsilon$ for any $\epsilon > 0$.
+Consider $A^{c}$. We have $$\begin{aligned}
+\mu^{*}(A^{c}) &\geq \mu^{*}(X) -\mu^{*}(A) = \mu_{0}(X) - \mu^{*}(A) 
+\\& \geq \mu_{0}(X) - (\mu^{*}(E^{c})+\epsilon) = \mu_{0}(X)-(\mu_{0}(X) - \mu^{*}(E)+\epsilon) = \mu^{*}(E)-\epsilon\end{aligned}$$
+
+Taking $B$ as the collection of all intersections of such $A$, we have
+$B \subset E,\ B \in \mathbb{A}_{\rho\delta}$
+
+and, since
+$\mu^{*}(E)-\mu^{*}(B) \leq \mu^{*}(E)-\mu^{*}(A^{c}) \leq \epsilon$,
+$\mu^{*}(E\backslash B).$ Thus, we have that $E$ is
+
+$\mu^{*}-$measurable.
