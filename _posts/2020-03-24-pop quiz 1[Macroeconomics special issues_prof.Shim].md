@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pop quiz 1[Macroeconomics special issues_prof. Shim]
+title: Macroeconomics special issues_Pop quiz 1[_prof. Shim]
 categories:
   - Study_econ&math
 tags:

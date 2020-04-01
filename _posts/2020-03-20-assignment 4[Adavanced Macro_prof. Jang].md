@@ -1,6 +1,6 @@
 ---
 layout: post
-title: assignment 4[Adavanced Macro_prof. Jang]
+title: Adavanced Macro_assignment 4[_prof. Jang]
 categories:
   - Study_econ&math
 tags:

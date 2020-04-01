@@ -1,6 +1,6 @@
 ---
 layout: post
-title: assignment 1[Real Analysis_prof. Kang]
+title: Real Analysis_assignment 1[_prof. Kang]
 categories:
   - Study_econ&math
 tags:
