@@ -5,7 +5,7 @@ categories:
   - Study_econ&math
 tags:
   - economics
-  - steady stae
+  - steady state
   - RBC
 last_modified_at: 2020-03-24
 use_math: true
