@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2020-04-11
 use_math: true
 ---
-source: lecture note in DataScienceLab in Yonsei university  
+source& copyright: lecture note in DataScienceLab in Yonsei university  
 
 ### Lasso & Ridge & Group Lasso
 
