@@ -30,6 +30,8 @@ measure from the log of GDP. Thus, to check whether the South Korea
 employment data should be differenced or not, I conducted ADF(Augmented
 Dickey-Fuller) unit root test by STATA.
 
+![window](https://drive.google.com/uc?export=view&id=1opc7CKq_sIKrsQafLty0JB9Mgl-t8XYi)  
+
 The test reveals that the null hypothesis that the assigned variable
 follows a unit root cannot be rejected, which means that the log of the
 employment variable in South Korea needs to be first-differenced. Using
@@ -39,6 +41,9 @@ response of hours worked (employment) to the identified technology
 shock. All data are yearily, and not seasonally adjusted.
 
 
+![window](https://drive.google.com/uc?export=view&id=1WcsPgpW2oqw-yRhl2S0iT6C6GH7vGlGV)  
+
+ 
 ### Compare your results with Gal´ı (1999).
 
 
@@ -51,6 +56,10 @@ eventually stabilizing at a level somewhat lower, which is interpreted
 as the reason for the gap between the initial increase in labor
 productivity and the (smaller) increase in output.
 
+![window](https://drive.google.com/uc?export=view&id=1WcsPgpW2oqw-yRhl2S0iT6C6GH7vGlGV)
+![window](https://drive.google.com/uc?export=view&id=1Oc4Ea7xm9nS7lgNYi7ArrHhIaVb5oxTJ)  
+
+
 However, contrary to the result of Gali(1999), the impulse response of
 hours worked (employment) in South Korea shows an immediate increase,
 but the initial rise appears to be vanished in a short period.
@@ -60,6 +69,8 @@ displays the cumulative summation of estimated impulse response of hours
 worked and productivity to the identified technology shock in both of
 South Korea and Japan(from Gali(1999)).
 
+![window](https://drive.google.com/uc?export=view&id=1ttHi7DYSn3FzjGEHteBeKep3ScH12_y0)
+![window](https://drive.google.com/uc?export=view&id=1QI274ucWdxf1Zss5aR9tBVZuQmtnzx2H)  
 
 The result of Figure 4 is quite interesting in that hours worked in most
 countries suggested in Gali(1999) but Japan experience a decrease in
@@ -89,6 +100,8 @@ variables are converted into constant 2000 prices. They also used
 bivariate long-run restriction VAR model to estimate the impulse
 response of hours worked to the identified technology shock.
 
+![window](https://drive.google.com/uc?export=view&id=1ttHi7DYSn3FzjGEHteBeKep3ScH12_y0)
+![window](https://drive.google.com/uc?export=view&id=17KbB7GpNikae2H3EADNsH75Dulrh3rqA)  
 
 Thus, if the VAR specification using in both are same exactly, one
 inference is that the eccentric response of hours worked described in
