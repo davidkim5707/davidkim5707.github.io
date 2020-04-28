@@ -15,7 +15,7 @@ use_math: true
 ---
 ### homework1
 
-* [link for pop homework1](https://drive.google.com/uc?export=view&id=1D08ZyOe7J15jrmlAUp4bohVfmgVLM9AI)  
+* [link for homework1](https://drive.google.com/uc?export=view&id=1D08ZyOe7J15jrmlAUp4bohVfmgVLM9AI)  
 
 ### Using the Long-run restriction that non-technology shock cannot affect the growth rate of employment in the long-run (following the specification of Gal´ı (1999)), show the impulse response function of hours worked (employment) to the identified technology shock.
 
