@@ -246,13 +246,16 @@ mid-1980.
 ![window](https://drive.google.com/uc?export=view&id=1tzWTUHue0jJeQyDU-0UcyOBIkZPbr8Qj)  
 
 
-To check whether above-described transformed-equations are valid or not,
-I used the average annual wages data from OECD for the period of
-1990-2018. In Figure 6, the results seem to be overally consistent with
-the results suggested in Figure 5. Thus, in South Korea, while the firm
-component of the labor wedge shows a weak relationship with the overall
-labor wedge, there have existed a tight association between the
-household component of labor wedge and the overall labor wedge.
+To check whether above-described transformed-equations are valid or not, 
+I used the average annual wages data from OECD for the period of 
+1990-2018. While the described high comovements between overall
+ and household-related labor wedges in Figure 5 seem to be weaken 
+after 2010, overally, the results in Figure 6 derived by using annual 
+wages are consistent with the results suggested in Figure 5. 
+Thus, in South Korea, while the firm component of the labor 
+wedge shows a weak relationship with the overall labor wedge, 
+there have existed a tight association between the household 
+component of labor wedge and the overall labor wedge.   
 
 ![window](https://drive.google.com/uc?export=view&id=18Jk6b-u8Fy6K4_-fWNDavFZ-jf6fnZUG)  
 
