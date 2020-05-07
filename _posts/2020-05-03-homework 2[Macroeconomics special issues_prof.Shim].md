@@ -71,7 +71,7 @@ following equation: $$BH^{1+\phi} = \frac{K}{C}(1-\frac{1}{\beta})+1$$
 Since we assume that $\phi = 1$, we finally acquire the following
 equation: $$BH^{2} = \frac{K}{C}(1-\frac{1}{\beta})+1$$
 
-In addtion, using the fact that $r_{t}-\delta = MPN_{t}$, we can get the
+In addtion, using the fact that $r_{t}+\delta = MPK_{t}$, we can get the
 following equation from equation (3) as well: $$\beta(r+1) = 1$$
 
 At the steady state, $r = 0.014$ is derived from the average series of
