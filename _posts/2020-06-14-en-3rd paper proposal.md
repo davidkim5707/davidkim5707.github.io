@@ -16,4 +16,4 @@ use_math: true
 * [link for 3rd paper proposal](https://drive.google.com/uc?export=view&id=1_hZpP7B813oj_kE2CaMaZf5H6PeTTkmi)  
 
 with Minseung Kim in Yonsei University.  
-Thank my second co-workers.
+Thank my co-worker.
