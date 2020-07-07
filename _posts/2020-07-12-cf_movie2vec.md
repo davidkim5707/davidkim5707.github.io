@@ -11,8 +11,6 @@ last_modified_at: 2020-07-07
 use_math: true
 ---
 
-by Nam Seung-Hee and Lim Seo-Ha from datascience-lab in Yonsei.  
-
 ### cf_movie2Vec
 
 ```python
