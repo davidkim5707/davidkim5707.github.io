@@ -76,7 +76,7 @@ Total number of iteration = 349.
 
 I used Matlab for value function iteration. Codes are as follows:
 
-``` {.matlab}
+```Matlab
 clc;
 clear all;
 
