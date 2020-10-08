@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Macroeconomics special issues_Homework3[_prof. Shim]
+title: Labor Frisch Elasticity Altongi replicate[course by_prof. Shim]
 categories:
   - Study_econ&math
 tags:

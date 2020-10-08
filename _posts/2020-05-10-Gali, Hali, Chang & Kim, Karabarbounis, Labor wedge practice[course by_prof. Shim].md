@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Macroeconomics special issues_Homework2[_prof. Shim]
+title: Gali, Hali, Chang & Kim, Karabarbounis, Labor wedge practice[course by_prof. Shim]
 categories:
   - Study_econ&math
 tags:

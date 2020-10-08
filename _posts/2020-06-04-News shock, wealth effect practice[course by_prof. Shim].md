@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Macroeconomics special issues_Homework4[_prof. Shim]
+title: News shock, wealth effect practice[course by_prof. Shim]
 categories:
   - Study_econ&math
 tags:

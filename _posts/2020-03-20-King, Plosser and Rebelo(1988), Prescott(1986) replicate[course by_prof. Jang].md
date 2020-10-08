@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adavanced Macro_assignment 3[_prof. Jang]
+title: King, Plosser and Rebelo(1988), Prescott(1986) replicate[course by_prof. Jang]
 categories:
   - Study_econ&math
 tags:

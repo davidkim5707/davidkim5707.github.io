@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Macroeconomics special issues_Homework1[_prof. Shim]
+title: Long-run restriction, technology shock, RBC practice[course by_prof. Shim]
 categories:
   - Study_econ&math
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adavanced Macro_assignment 1[_prof. Jang]
+title: Cooley and Prescott replicate using H-P filter[course by_prof. Jang]
 categories:
   - Study_econ&math
 tags:

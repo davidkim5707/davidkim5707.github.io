@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adavanced Macro_assignment 2[_prof. Jang]
+title: Campbell(199) "stochastic growth model" replicate[course by_prof. Jang]
 categories:
   - Study_econ&math
 tags:

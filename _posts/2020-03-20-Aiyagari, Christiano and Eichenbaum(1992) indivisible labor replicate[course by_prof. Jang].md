@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adavanced Macro_assignment 4[_prof. Jang]
+title: Aiyagari, Christiano and Eichenbaum(1992) indivisible labor replicate[course by_prof. Jang]
 categories:
   - Study_econ&math
 tags:

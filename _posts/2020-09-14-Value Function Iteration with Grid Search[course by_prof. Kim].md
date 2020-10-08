@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advanced topics in Macroeconomics theory_Homework1[_prof. Kim]
+title: Value Function Iteration with Grid Search[course by_prof. Kim]
 categories:
   - Study_econ&math
 tags:
