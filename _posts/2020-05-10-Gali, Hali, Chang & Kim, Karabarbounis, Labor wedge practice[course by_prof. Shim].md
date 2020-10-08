@@ -15,7 +15,7 @@ use_math: true
 ---
 ### homework2
 
-* [link for homework2](https://drive.google.com/uc?export=view&id=1K0moAYBE2I0StyqNwj861uyYkWz5Z3Wa)  
+* [link for homework2](https://drive.google.com/file/d/1K0moAYBE2I0StyqNwj861uyYkWz5Z3Wa/view?usp=sharing)
 
 ## Exercise: Labor Wedge in South Korea 
 

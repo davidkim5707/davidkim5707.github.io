@@ -12,5 +12,5 @@ use_math: true
 ---
 ### homework2
 
-* [zip file for homework2](https://drive.google.com/uc?export=view&id=185l8RmJox2_HiEx-jnuGyydCOEjz2RPv)
+* [zip file for homework2](https://drive.google.com/file/d/185l8RmJox2_HiEx-jnuGyydCOEjz2RPv/view?usp=sharing)
 

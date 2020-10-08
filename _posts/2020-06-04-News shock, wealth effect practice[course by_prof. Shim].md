@@ -12,7 +12,7 @@ use_math: true
 ---
 ### homework4
 
-* [link for homework4](https://drive.google.com/uc?export=view&id=171RQVCBFT3NvhirtS-efHE59ACxppY7w)  
+* [link for homework4](https://drive.google.com/file/d/171RQVCBFT3NvhirtS-efHE59ACxppY7w/view?usp=sharing)
 
 
 Exercise: Household Problem with News Shock 
